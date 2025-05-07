@@ -9,24 +9,24 @@ time-range é uma funcionalidade usada para aplicar configurações com base em 
 
 ---
 
-## Comandos utilizados
-
+## POP
+_Entrar no modo de configuração global_
 ~~~bash
-#Entrar no modo de configuração global
 configure terminal
 ~~~
 ~~~bash
 #Configurar nome do time-range
 time-range [WORD<1-32] 
 ~~~
+
 ~~~bash
-#Após configurar o nome o switch retorna este valor: Cisco(config-time-range)#
+
 ~~~
 
 
 
 
-
+#Após configurar o nome o switch retorna este valor: Cisco(config-time-range)#
 ~~~bash
 time-range HORARIO_COMERCIAL
  periodic Monday Friday 08:00 to 18:00
