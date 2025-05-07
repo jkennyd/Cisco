@@ -1,3 +1,3 @@
-Configuração de switch Cisco   | 
-:---------: | 
-Configuração de switch Cisco   |  
+Cisco   |Cisco   |Cisco   |
+:---------: |:---------: |:---------: |
+Cisco   |Cisco   |Cisco   |
