@@ -26,7 +26,7 @@ _Dica:_
 <sup>
   Em dispositivos Cisco, existe o __periodic__ e __absolut__, que são usados ​​para definir intervalos de tempo. __periodic__ define períodos de tempo recorrentes dentro de um dia, semana ou mês. __absolut__ define uma data e hora específicas ou um intervalo entre duas   datas e horas
 </sup>
- 
+_Após configurar o nome o switch retorna este valor: Cisco(config-time-range)#_
 ~~~bash
 periodic [sun,mon,tue,wed,thu,fri,sat,daily,weekdays,weekend] HH:MM to HH:MM
 ~~~
@@ -34,7 +34,7 @@ periodic [sun,mon,tue,wed,thu,fri,sat,daily,weekdays,weekend] HH:MM to HH:MM
 
 
 
-_Após configurar o nome o switch retorna este valor: Cisco(config-time-range)#_
+
 ~~~bash
 time-range HORARIO_COMERCIAL
  periodic Monday Friday 08:00 to 18:00
