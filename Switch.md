@@ -66,7 +66,7 @@ _Aplicar time-range configurado anteriormente na(s) interface(s)_
 ~~~bash
 operation time-range [WORD <1-32>]
 ~~~
-<sup>Dica: o comando operation time-range no modo de configuração da interface permite especificar um intervalo de tempo durante o qual a porta estará habilitada ou desabilitada. Você pode então usar esse intervalo de tempo para controlar o status operacional da porta.</sup><br><br>
+<sup>Dica: o comando operation time-range no modo de configuração da interface permite especificar o nome do time-range, onde o mesmo foi configurado com um intervalo de tempo durante o qual a porta estará habilitada ou desabilitada.</sup><br><br>
 
 
 _Depois de configurado saia do modo de configuração global_
