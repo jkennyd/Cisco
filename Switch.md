@@ -14,8 +14,8 @@ _Entrar no modo de configuração global_
 ~~~bash
 configure terminal
 ~~~
+__Configurar nome do time-range__
 ~~~bash
-#Configurar nome do time-range
 time-range [WORD<1-32] 
 ~~~
 
