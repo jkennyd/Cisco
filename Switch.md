@@ -21,6 +21,7 @@ time-range [WORD<1-32]
 ~~~
 
 _Configuração do time-range_
+<br>
 _Dica:_
 <br>
 <sup>
