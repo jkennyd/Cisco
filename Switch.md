@@ -21,7 +21,7 @@ time-range [WORD<1-32]
 ~~~
 
 _Configuração do time-range_
-<sup>Em dispositivos Cisco, periodice absolutesão usados ​​para definir intervalos de tempo. periodicdefine períodos de tempo recorrentes dentro de um dia, semana ou mês. absolutedefine uma data e hora específicas ou um intervalo entre duas datas e horas</sup>
+<br><sup>Em dispositivos Cisco, periodic e absolut são usados ​​para definir intervalos de tempo. _periodic_ define períodos de tempo recorrentes dentro de um dia, semana ou mês. _absolut_ define uma data e hora específicas ou um intervalo entre duas datas e horas</sup>
 ~~~bash
 
 ~~~
