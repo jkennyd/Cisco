@@ -18,7 +18,7 @@ configure terminal
 
 _Adicionar nome ao time-range_
 ~~~bash
-time-range [WORD<1-32] 
+time-range [WORD<1-32>] 
 ~~~
 <br>
 
