@@ -11,11 +11,7 @@ time-range é uma funcionalidade usada para aplicar configurações com base em 
 
 ## Exemplos de Uso
 
-```bash
+~~~bash
 time-range HORARIO_COMERCIAL
  periodic Monday Friday 08:00 to 18:00
-```
-
-~~~bash
-Testes
 ~~~
