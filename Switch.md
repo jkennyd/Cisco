@@ -1,4 +1,4 @@
-#Configuração de Time-Range
+# Configuração de Time-Range
 
 ## Objetivo
 Utilizar recurso time-range em switches Cisco, permitindo aplicar políticas com base em horários/dias específicos.
@@ -34,7 +34,7 @@ periodic [sun,mon,tue,wed,thu,fri,sat,daily,weekdays,weekend] HH:MM to HH:MM
 
 
 
-#Após configurar o nome o switch retorna este valor: Cisco(config-time-range)#
+# Após configurar o nome o switch retorna este valor: Cisco(config-time-range)#
 ~~~bash
 time-range HORARIO_COMERCIAL
  periodic Monday Friday 08:00 to 18:00
