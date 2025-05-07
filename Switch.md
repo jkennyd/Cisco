@@ -22,10 +22,8 @@ time-range [WORD<1-32]
 
 _Configuração do time-range_
 <br>
-_Dica:_
-<br>
 <sup>
-  Em dispositivos Cisco, existe o __periodic__ e __absolut__, que são usados ​​para definir intervalos de tempo. __periodic__ define períodos de tempo recorrentes dentro de um dia, semana ou mês. __absolut__ define uma data e hora específicas ou um intervalo entre duas   datas e horas
+  Dica: em dispositivos Cisco, existe o __periodic__ e __absolut__, que são usados ​​para definir intervalos de tempo. __periodic__ define períodos de tempo recorrentes dentro de um dia, semana ou mês. __absolut__ define uma data e hora específicas ou um intervalo entre duas   datas e horas
 </sup>
 <br>
 _Após configurar o nome o switch retorna este valor: Cisco(config-time-range)#_
