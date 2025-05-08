@@ -5,7 +5,7 @@ Utilizar recurso time-range em switches Cisco, permitindo aplicar políticas em 
 
 ## O que é Time-Range?
 
-Basicamento o __time-range__ é uma funcionalidade usada para aplicar configurações com base em *horários e dias da semana. Pode ser utilizado em conjunto com **ACLs (Access Control Lists)* para permitir ou negar tráfego apenas em determinados períodos.
+Basicamente, a função __time-range__ é uma funcionalidade usada para aplicar configurações com base em *horários e dias da semana. Pode ser utilizado em conjunto com **ACLs (Access Control Lists)* para permitir ou negar tráfego apenas em determinados períodos.
 
 ---
 
