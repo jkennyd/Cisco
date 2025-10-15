@@ -54,6 +54,8 @@ switchport port-security
 
 ~~~
 
+>ATENÇÃO: tenha certeza de que o mac do equipamento não esteja cadastrado em outra interface do switch. Caso esteja, não vai funcionar enquanto não limpar da interface antiga.
+
 ---
 
 _Depois de configurado saia do modo de configuração global_
